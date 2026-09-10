@@ -8,7 +8,7 @@ Explorar o dataset de gorjetas de um restaurante para entender como fatores como
 
 
 ## 🔍 Etapas da análise
-### 1. Perfil geral dos dados ✅
+### 1. Perfil geral dos dados 
 - Dimensões (linhas/colunas)
 - Tipos de dados
 - Valores nulos e duplicados
@@ -36,9 +36,8 @@ Pandas
 Matplotlib
 Seaborn
 
-## 🚧 Próximos passos
-Concluir as análises das seções 2 a 8
-Criar um dashboard interativo para rodar em um servidor
+
+
 
 ## 👤 Autor
 
