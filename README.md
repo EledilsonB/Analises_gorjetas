@@ -2,7 +2,7 @@
 
 Projeto de análise exploratória de dados (EDA) desenvolvido como parte de um BootCamp da DIO, utilizando Pandas, Matplotlib e Seaborn sobre o dataset tips.
 
-[text](src/relatorio.md)
+[Relatório](src/relatorio.md)
 
 ## 🎯 Objetivo
 
