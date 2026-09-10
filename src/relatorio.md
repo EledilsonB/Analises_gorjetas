@@ -11,7 +11,7 @@
 - Gráficos: boxplot e scatterplot
 - Pergunta: existe correlação? forte ou fraca? positiva ou negativa?
 
-![Relação de Grojetas por Grupos](outputs/figures/GorjetasxQtdPessoas.png)
+![Relação de Grojetas por Grupos](../outputs/figures/GorjetasxQtdPessoas.png)
 
 - Ao analisar a distribuição da gorjeta por tamanho do grupo, observamos que os outliers não estão distribuidos igualmente entre os grupos, ele se concentram principalmente nos grupos de tamanhos 2, 3, 4 e 6, enquanto o grupo de tamanho 1 não apresenta nenhum outlier visível.
 
@@ -28,4 +28,4 @@
 - Gráficos: relplot e countplot
 - Perguntas: os dados parecem normais? há assimetria? existem outliers?
 
-![Distribuição da variáveis entre Almoço e Jantar](outputs/figures/Distribuicao_variaveis_LunchxDinner.png)
+![Distribuição da variáveis entre Almoço e Jantar](../outputs/figures/Distribuicao_variaveis_LunchxDinner.png)
