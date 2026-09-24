@@ -1,5 +1,5 @@
 
-## 🔍 Etapas da análise
+##  Etapas da análise
 ### 1. Perfil geral dos dados 
 - Dimensões (linhas/colunas)
 - Tipos de dados
